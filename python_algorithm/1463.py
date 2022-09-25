@@ -1,5 +1,3 @@
-import sys
-
 n = int(input())
 dp = {1:0, 2:1}
 def dfs(n):
